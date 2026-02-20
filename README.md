@@ -69,7 +69,7 @@ pip install pyinstaller
 ## How to Make it Into a Executable
 Open a terminal in the same place as the .py file and enter the following command:
 ```bash
-pyinstaller --onefile --noconsole bot.py
+python -m PyInstaller --onefile --noconsole yourfile.py
 ```
 
 This will create 2 folders, the .exe file will be in the **"dist"** folder.
