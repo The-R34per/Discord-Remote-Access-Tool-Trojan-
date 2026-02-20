@@ -69,7 +69,7 @@ pip install pyinstaller
 ## How to Make it Into a Executable
 Open a terminal in the same place as the .py file and enter the following command:
 ```bash
-python -m PyInstaller --onefile --noconsole yourfile.py
+python -m PyInstaller --onefile --noconsole DiscordRAT.py
 ```
 
 This will create 2 folders, the .exe file will be in the **"dist"** folder.
@@ -80,7 +80,7 @@ This will create 2 folders, the .exe file will be in the **"dist"** folder.
 
 Open a terminal window at the path of the bot.py file, then enter the following command:
 ```bash
-python3 bot.py
+python3 DiscordRAT.py
 ```
 
 ---
