@@ -1,4 +1,4 @@
-# Discord Remote Access Tool/Trojan
+# Discord Remote Access Trojan (Discord RAT)
 
 ---
 
